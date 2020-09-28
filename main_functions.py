@@ -1,3 +1,8 @@
+'''
+Luis F. Hernandez JR
+5163353
+'''
+
 import json
 import requests
 
@@ -86,6 +91,7 @@ def create_wordcloud(topic):
 
     wordcloud = WordCloud().generate(abstract_words)
 
-    fig = plt.figure(figsize=(12,12))
-    
-    return
+    plt.figure(figsize=(12,12))
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.savefig("Images/wordcloud.png")

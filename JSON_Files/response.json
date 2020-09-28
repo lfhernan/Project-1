@@ -1,0 +1,752 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Fashion",
+  "last_updated": "2020-09-28T10:06:12-04:00",
+  "num_results": 9,
+  "results": [
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "In Milan, Fashion Tries to Go Back to Normal. What Does That Even Mean?",
+      "abstract": "Some unconventional ideas from Moschino and Marni, plus real catwalks with real models at Valentino and Versace. And an octopus guest star.",
+      "url": "https://www.nytimes.com/2020/09/28/style/Milan-Fashion-Week-valentino-versace-moschino.html",
+      "uri": "nyt://article/d2430e07-4df4-5e51-99ed-8e2a5f7574c3",
+      "byline": "By Vanessa Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T14:04:16-04:00",
+      "created_date": "2020-09-28T09:31:39-04:00",
+      "published_date": "2020-09-28T09:31:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Fashion Review",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Milan Fashion Week",
+        "your-feed-fashion"
+      ],
+      "org_facet": [
+        "Armani, Giorgio, SpA",
+        "Marni Group",
+        "Moschino SpA",
+        "Valentino Fashion Group SpA",
+        "Versace, Gianni, SpA"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Milan (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/fashion/28MFW-VERSACE-versace/28MFW-VERSACE-versace-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Versace\u2019s lost Versacepolis, spring 2021",
+          "copyright": "via Versace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/fashion/28MFW-VERSACE-versace/28MFW-VERSACE-versace-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Versace\u2019s lost Versacepolis, spring 2021",
+          "copyright": "via Versace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/fashion/28MFW-VERSACE-versace/28MFW-VERSACE-versace-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Versace\u2019s lost Versacepolis, spring 2021",
+          "copyright": "via Versace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/fashion/28MFW-VERSACE-versace/28MFW-VERSACE-versace-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Versace\u2019s lost Versacepolis, spring 2021",
+          "copyright": "via Versace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/fashion/28MFW-VERSACE-versace/28MFW-VERSACE-versace-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Versace\u2019s lost Versacepolis, spring 2021",
+          "copyright": "via Versace"
+        }
+      ],
+      "short_url": "https://nyti.ms/30hxos1"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Raf Simons and Miuccia Prada Make Civil Discourse Look Lovely",
+      "abstract": "In the first big show of Milan Fashion Week, a Prada co-creative debut gives everyone something to chew on. Plus the pasta connection at Fendi.",
+      "url": "https://www.nytimes.com/2020/09/24/style/milan-fashion-week-prada-fendi.html",
+      "uri": "nyt://article/491c5d15-10de-55ef-ad5e-9326f321e51b",
+      "byline": "By Vanessa Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-09-25T21:30:45-04:00",
+      "created_date": "2020-09-24T13:52:44-04:00",
+      "published_date": "2020-09-24T13:52:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Milan Fashion Week",
+        "your-feed-fashion"
+      ],
+      "org_facet": [
+        "Fendi SpA",
+        "Prada SpA"
+      ],
+      "per_facet": [
+        "Simons, Raf",
+        "Prada, Miuccia",
+        "Fendi, Silvia"
+      ],
+      "geo_facet": [
+        "Milan (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/24MFW-PRADA-prada-top/24MFW-PRADA-prada-top-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1502,
+          "width": 1502,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "via Prada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/24MFW-PRADA-prada-top/24MFW-PRADA-prada-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "via Prada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/24MFW-PRADA-prada-top/24MFW-PRADA-prada-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "via Prada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/24MFW-PRADA-prada-top/24MFW-PRADA-prada-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "via Prada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/24MFW-PRADA-prada-top/24MFW-PRADA-prada-top-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "via Prada"
+        }
+      ],
+      "short_url": "https://nyti.ms/305GoQY"
+    },
+    {
+      "section": "fashion",
+      "subsection": "",
+      "title": "Batsheva Makes a Top (or a Dress!) From a Pillowcase",
+      "abstract": "The Designer D.I.Y. series returns with a sleeveless look for the last stretches of summer, from the pioneer woman of modern prairie dresses.",
+      "url": "https://www.nytimes.com/2020/09/24/fashion/batsheva-makes-a-top-or-a-dress-from-a-pillowcase.html",
+      "uri": "nyt://article/6c34041f-23b9-504c-b9e2-c34f4047c36f",
+      "byline": "By Jessica Testa and Samantha Hahn",
+      "item_type": "Article",
+      "updated_date": "2020-09-25T07:43:11-04:00",
+      "created_date": "2020-09-24T07:21:31-04:00",
+      "published_date": "2020-09-24T07:21:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Sewing",
+        "Do It Yourself",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "Batsheva (Fashion Label)"
+      ],
+      "per_facet": [
+        "Hay, Batsheva"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/23DIYDESIGNER-BATSHEVA-portrait/23DIYDESIGNER-BATSHEVA-portrait-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 454,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/23DIYDESIGNER-BATSHEVA-portrait/23DIYDESIGNER-BATSHEVA-portrait-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/23DIYDESIGNER-BATSHEVA-portrait/23DIYDESIGNER-BATSHEVA-portrait-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/23DIYDESIGNER-BATSHEVA-portrait/23DIYDESIGNER-BATSHEVA-portrait-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/23DIYDESIGNER-BATSHEVA-portrait/23DIYDESIGNER-BATSHEVA-portrait-articleInline.jpg",
+          "format": "Normal",
+          "height": 42,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ezwz6o"
+    },
+    {
+      "section": "fashion",
+      "subsection": "",
+      "title": "Is the New Guards Group the New Guard of Fashion?",
+      "abstract": "The industry is in reset mode. Does a Milanese upstart have the blueprint for how to grow a next generation of blockbuster brands?",
+      "url": "https://www.nytimes.com/2020/09/23/fashion/New-Guards-Milan-Fashion-Week.html",
+      "uri": "nyt://article/cafd987a-548e-5ebe-a6dd-698022264b99",
+      "byline": "By Elizabeth Paton",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T12:40:32-04:00",
+      "created_date": "2020-09-23T02:00:04-04:00",
+      "published_date": "2020-09-23T02:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Trademarks and Trade Names",
+        "Luxury Goods and Services",
+        "E-Commerce",
+        "Milan Fashion Week",
+        "Sneakers"
+      ],
+      "org_facet": [
+        "Central Saint Martins College of Art and Design",
+        "Off-White (Fashion Label)",
+        "Palm Angels (Fashion Label)"
+      ],
+      "per_facet": [
+        "Abloh, Virgil",
+        "Burlon, Marcelo",
+        "Neves, Jose",
+        "Preston, Heron"
+      ],
+      "geo_facet": [
+        "Italy"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/fashion/23MFW-NewGuards-Davide-De-Giglio-sub/23MFW-NewGuards-Davide-De-Giglio-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Davide De Giglio",
+          "copyright": "Filippo Avandero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/fashion/23MFW-NewGuards-Davide-De-Giglio-sub/23MFW-NewGuards-Davide-De-Giglio-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Davide De Giglio",
+          "copyright": "Filippo Avandero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/fashion/23MFW-NewGuards-Davide-De-Giglio-sub/23MFW-NewGuards-Davide-De-Giglio-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Davide De Giglio",
+          "copyright": "Filippo Avandero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/fashion/23MFW-NewGuards-Davide-De-Giglio-sub/23MFW-NewGuards-Davide-De-Giglio-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Davide De Giglio",
+          "copyright": "Filippo Avandero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/fashion/23MFW-NewGuards-Davide-De-Giglio-sub/23MFW-NewGuards-Davide-De-Giglio-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Davide De Giglio",
+          "copyright": "Filippo Avandero"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iW3d0S"
+    },
+    {
+      "section": "fashion",
+      "subsection": "",
+      "title": "Watch the Milan Fashion Week Shows With Us",
+      "abstract": "Here\u2019s where to watch live shows from Milan Fashion Week, including Fendi, Etro, Versace and more.",
+      "url": "https://www.nytimes.com/2020/09/23/fashion/milan-fashion-week-videos.html",
+      "uri": "nyt://article/2f70acc0-1295-5e59-9b64-e8c5a1f21b53",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T14:03:27-04:00",
+      "created_date": "2020-09-23T05:31:36-04:00",
+      "published_date": "2020-09-23T05:31:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Milan Fashion Week",
+        "Fashion and Apparel"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/11MILANFW/11MILANFW-superJumbo-v7.png",
+          "format": "superJumbo",
+          "height": 952,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/11MILANFW/11MILANFW-thumbStandard-v8.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/11MILANFW/11MILANFW-thumbLarge-v8.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/11MILANFW/11MILANFW-mediumThreeByTwo210-v9.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/11MILANFW/11MILANFW-articleInline-v7.png",
+          "format": "Normal",
+          "height": 88,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/33TeHvS"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "London Fashion Week Gives Good TV",
+      "abstract": "The videofication of collections continues apace. Worth watching: Gareth Pugh, Christopher Kane and Erdem, to name a few.",
+      "url": "https://www.nytimes.com/2020/09/22/style/london-fashion-week-gareth-pugh-Christopher-kane-erdem.html",
+      "uri": "nyt://article/17e2c20f-1bcf-5f1d-82af-110d19c38116",
+      "byline": "By Vanessa Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T00:35:15-04:00",
+      "created_date": "2020-09-22T15:41:04-04:00",
+      "published_date": "2020-09-22T15:41:04-04:00",
+      "material_type_facet": "",
+      "kicker": "Fashion Review",
+      "des_facet": [
+        "Fashion and Apparel",
+        "London Fashion Week",
+        "your-feed-fashion"
+      ],
+      "org_facet": [
+        "Halpern (Fashion Label)"
+      ],
+      "per_facet": [
+        "Kane, Christopher (1982- )",
+        "Pugh, Gareth",
+        "Moralioglu, Erdem"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LondonFashionReview-halpern/22LondonFashionReview-halpern-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1998,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Halpern presentation, frontline workers modeled the spring 2021 collection.",
+          "copyright": "Chris Sutton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LondonFashionReview-halpern/22LondonFashionReview-halpern-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Halpern presentation, frontline workers modeled the spring 2021 collection.",
+          "copyright": "Chris Sutton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LondonFashionReview-halpern/22LondonFashionReview-halpern-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Halpern presentation, frontline workers modeled the spring 2021 collection.",
+          "copyright": "Chris Sutton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LondonFashionReview-halpern/22LondonFashionReview-halpern-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Halpern presentation, frontline workers modeled the spring 2021 collection.",
+          "copyright": "Chris Sutton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LondonFashionReview-halpern/22LondonFashionReview-halpern-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Halpern presentation, frontline workers modeled the spring 2021 collection.",
+          "copyright": "Chris Sutton"
+        }
+      ],
+      "short_url": "https://nyti.ms/33RqVVz"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "A London Fashion Week Where Beauty Was a Balm",
+      "abstract": "Most collections were shown online this season, but some designers in masks held in-person appointments, sharing stories of how lockdown had shaped their lives and businesses.",
+      "url": "https://www.nytimes.com/2020/09/22/style/a-london-fashion-week-where-beauty-was-a-balm.html",
+      "uri": "nyt://article/8ba78560-a2d9-5f51-97dc-88c533933fad",
+      "byline": "By Elizabeth Paton",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T00:33:30-04:00",
+      "created_date": "2020-09-22T14:15:43-04:00",
+      "published_date": "2020-09-22T14:15:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Quarantine (Life and Culture)",
+        "London Fashion Week",
+        "Shutdowns (Institutional)"
+      ],
+      "org_facet": [
+        "Roksanda (Fashion Label)"
+      ],
+      "per_facet": [
+        "Beckham, Victoria",
+        "Goddard, Molly",
+        "Ilincic, Roksanda",
+        "Rocha, Simone"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LFW-Roksanda--SUB/22LFW-Roksanda--SUB-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roksanda, spring 2021",
+          "copyright": "via Roksanda"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LFW-Roksanda--SUB/22LFW-Roksanda--SUB-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roksanda, spring 2021",
+          "copyright": "via Roksanda"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LFW-Roksanda--SUB/22LFW-Roksanda--SUB-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roksanda, spring 2021",
+          "copyright": "via Roksanda"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LFW-Roksanda--SUB/22LFW-Roksanda--SUB-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roksanda, spring 2021",
+          "copyright": "via Roksanda"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/fashion/22LFW-Roksanda--SUB/22LFW-Roksanda--SUB-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roksanda, spring 2021",
+          "copyright": "via Roksanda"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j0enBW"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Find Yourself a Tailor. It\u2019s Not Fancy, It\u2019s Freeing.",
+      "abstract": "When you start to think of clothes as things that can be altered, the way you see them changes.",
+      "url": "https://www.nytimes.com/2020/09/22/magazine/tailor-clothes-thrifting.html",
+      "uri": "nyt://article/499e3af6-9f95-51b3-85fb-ca1f9c81c879",
+      "byline": "By Rachel Connolly",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T23:03:02-04:00",
+      "created_date": "2020-09-22T05:00:07-04:00",
+      "published_date": "2020-09-22T05:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Letter of Recommendation",
+      "des_facet": [
+        "Seamstresses and Tailors",
+        "Thrift Shops",
+        "Fashion and Apparel"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Northern Ireland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/magazine/27mag-LOR/27mag-LOR-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1491,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robbie Lawrence for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/magazine/27mag-LOR/27mag-LOR-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robbie Lawrence for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/magazine/27mag-LOR/27mag-LOR-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robbie Lawrence for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/magazine/27mag-LOR/27mag-LOR-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robbie Lawrence for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/magazine/27mag-LOR/27mag-LOR-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robbie Lawrence for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZZ7TeX"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Fashion Month Is Happening! Really. Probably? Maybe.",
+      "abstract": "Here\u2019s a very opinionated guide for what to watch, where to watch it, where to buy and what the heck is going on.",
+      "url": "https://www.nytimes.com/2020/09/08/style/fashion-month-schedule.html",
+      "uri": "nyt://article/fb5918e0-028b-5876-bfeb-f27afb6dc40c",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-23T16:32:02-04:00",
+      "created_date": "2020-09-08T11:59:55-04:00",
+      "published_date": "2020-09-08T11:59:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Quarantine (Life and Culture)",
+        "New York Fashion Week",
+        "London Fashion Week",
+        "Paris Fashion Week",
+        "Milan Fashion Week",
+        "your-feed-fashion"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/autossell/08fashionguide-2-still/08fashionguide-2-still-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1014,
+          "width": 1300,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/autossell/08fashionguide-2-still/08fashionguide-2-still-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/autossell/08fashionguide-2-still/08fashionguide-2-still-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/autossell/08fashionguide-2-still/08fashionguide-2-still-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/autossell/08fashionguide-2-still/08fashionguide-2-still-articleInline.jpg",
+          "format": "Normal",
+          "height": 148,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FiDZL2"
+    }
+  ]
+}
