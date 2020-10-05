@@ -145,7 +145,7 @@ def create_wordcloud_top_stories(topic):
     plt.figure(figsize=(12,12))
     plt.imshow(wordcloud)
     plt.axis("off")
-    plt.savefig("Images/top_articles_wordcloud.png")
+    plt.savefig("top_articles_wordcloud.png")
 
 '''
 A helper function that creates the wordcloud for the most popular articles
@@ -165,4 +165,4 @@ def create_wordcloud_most_popular(article_type, time_period):
     plt.figure(figsize=(12,12))
     plt.imshow(wordcloud)
     plt.axis("off")
-    plt.savefig("Images/most_popular_wordcloud.png")
+    plt.savefig("most_popular_wordcloud.png")
