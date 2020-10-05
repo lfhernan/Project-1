@@ -39,7 +39,7 @@ if name and topic:
 
     if word_cloud:
         main_functions.create_wordcloud_top_stories(topic)
-        st.image("Images/top_articles_wordcloud.png", caption="Wordcloud of the most common words in the " + topic + " topic.", use_column_width=True)
+        st.image("top_articles_wordcloud.png", caption="Wordcloud of the most common words in the " + topic + " topic.", use_column_width=True)
 
 st.subheader("Part B - Most Popular API")
 
@@ -51,4 +51,4 @@ times = st.selectbox(label="Time Period (days)", options=article_times)
 
 if article and times:
     main_functions.create_wordcloud_most_popular(article, times)
-    st.image("Images/most_popular_wordcloud.png", caption="Wordcloud of " + article + " articles", use_column_width=True)
+    st.image("most_popular_wordcloud.png", caption="Wordcloud of " + article + " articles", use_column_width=True)
